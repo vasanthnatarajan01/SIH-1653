@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 6/03/2025
+## Register Number: 212224110060
+## Name: VASANTH N
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -37,9 +37,11 @@ Automated ranking system to streamline decision-making.
 
 
 ## Proposed Solution / Architecture Diagram
+![WhatsApp Image 2025-03-06 at 19 01 49_024a0a5b](https://github.com/user-attachments/assets/279ba98d-d569-47cc-9c54-a2fd78c70dd7)
 
 
 ## Use Cases
+![Screenshot 2025-03-06 190015](https://github.com/user-attachments/assets/ba2ec282-6d15-4575-82e5-f79574c8bf2d)
 
 
 ## Technology Stack
@@ -52,4 +54,8 @@ User-Friendly Web & Mobile Interface
 
 
 ## Dependencies
+Mapping service- 5 days
 
+Data collection- 15 days
+
+budget- rs.3,50,000 - 5,00,000
